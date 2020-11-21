@@ -1,4 +1,3 @@
-#https://spjai.com/category-classification/
 import nltk
 import re
 from sklearn.feature_extraction.text import CountVectorizer
