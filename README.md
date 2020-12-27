@@ -1,15 +1,15 @@
 # Introduction
-python project to classify text data automatically.
+Python project to classify text data automatically.
 
 # Preparing for train
-create training data "input_for_train.txt"
+Create training data "input_for_train.txt".
   -> columns [category,text]
-create models folder
-  -> save models in "models" folder
+Create models folder.
+  -> Models are saved in "models" folder.
 
 
 # Preparing for predict
-create training data "input_for_predict.txt"
+Create training data "input_for_predict.txt".
   -> columns [category,text]
 
 # License
